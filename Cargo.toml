@@ -1,0 +1,8 @@
+[package]
+name = "planaria"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pest = { version = "2.1" }
+pest_derive = { version = "2.1" }
